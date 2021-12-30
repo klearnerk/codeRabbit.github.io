@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>typora用法</title>
+    <link href="/2021/12/30/typora%E7%94%A8%E6%B3%95/"/>
+    <url>/2021/12/30/typora%E7%94%A8%E6%B3%95/</url>
+    
+    <content type="html"><![CDATA[<p>[200~# 一级标题 # 标题</p><h2 id="二级标题-标题"><a href="#二级标题-标题" class="headerlink" title="二级标题  ## 标题"></a>二级标题  ## 标题</h2><h3 id="三级标题-标题"><a href="#三级标题-标题" class="headerlink" title="三级标题  ### 标题"></a>三级标题  ### 标题</h3><h4 id="四级标题-标题"><a href="#四级标题-标题" class="headerlink" title="四级标题  #### 标题"></a>四级标题  #### 标题</h4><h5 id="五级标题-标题"><a href="#五级标题-标题" class="headerlink" title="五级标题  ##### 标题"></a>五级标题  ##### 标题</h5><h6 id="六级标题-标题"><a href="#六级标题-标题" class="headerlink" title="六级标题 ###### 标题"></a>六级标题 ###### 标题</h6><blockquote><p>这是一段引用   &gt; 引用</p><blockquote><p>这又是引用</p><blockquote><p>套娃</p></blockquote></blockquote></blockquote><p>ul无序列表     * 张飞</p><ul><li>张飞</li><li>关羽</li><li>刘备</li></ul><p>ol有序列表      1. 曹操</p><ol><li>曹操</li><li>曹仁</li><li>曹真</li><li>曹爽</li></ol><p>Task List任务列表</p><p>选项：  - [ ] 打游戏   - [x] 玩游戏</p><ul><li><input disabled="" type="checkbox"> incomplete</li><li><input checked="" disabled="" type="checkbox"> completed</li><li><input disabled="" type="checkbox"> 吃饭</li><li><input disabled="" type="checkbox"> 睡觉</li><li><input disabled="" type="checkbox"> 打豆豆</li></ul><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">main</span><span class="hljs-params">(String[] args)</span></span>&#123;<br>    System.out.println(<span class="hljs-string">&quot;HelloWorld!&quot;</span>);<br>&#125;<br></code></pre></td></tr></table></figure><p>​    代码块：```python</p><p>表格   ctrl+T</p><table><thead><tr><th>姓名</th><th>codeRabbit</th></tr></thead><tbody><tr><td>年龄</td><td>18</td></tr></tbody></table><p>脚注[^好像没啥用 ]</p><hr><hr><p>*** or — 可以横线隔开</p><p>[toc]  生成目录索引</p><p>[toc]</p><p>链接  <a href="%E9%93%BE%E6%8E%A5%E7%BD%91%E5%9D%80">链接</a></p><p><a href="http://www.baidu.com/">百度</a></p><p>图片格式：<img src=""></p><p><strong>文本加粗</strong></p><p><em>文本斜体</em></p><p><em><strong>文本加粗加斜</strong></em></p><p><del>删除线</del></p><p><u>下划线</u></p><p>代码块(code)</p><p><code>printGcDetails</code>方法</p><p>表情</p><p>开心:smile:</p><p>愤怒:angry:</p><p>悲伤:cry:</p><p>喜欢:heart_eyes:</p><p>文本高亮</p><p>这真是一个好用的==工具==</p><p>文本变<span style="color:red;">红色</span>使用html方式</p><video src="xxx.mp4"/>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
